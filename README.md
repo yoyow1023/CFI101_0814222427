@@ -1,6 +1,7 @@
 # CFI101_team2
 這邊先放入這兩周完成的任務:
- (實作1) python套建 pymysql連結mysql sever的操作
+
+(實作1) python套建 pymysql連結mysql sever的操作
 
 (實作2) 使用較難且不實用的方法，將圖片以binary格式存入sql內，並且能完成讀取
 
